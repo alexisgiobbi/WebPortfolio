@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: cursive;
+  background-color: #BEB7A4;
+  margin: 20px auto 10px auto;
+}
+h2 {
+  font-family: georgia;
+  margin: 20px auto 10px auto;
+  color: #FFFFFC
+}
+p {
+width: 300px;
+padding: 50px;
+margin: 20px auto 10px auto;
+border: 20px solid #016FB9;}
+h1 {
+  font-size: 48px;
+  color: #9D79BC;
+}
