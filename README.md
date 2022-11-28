@@ -2,4 +2,4 @@
 
 ## Future Plans
 
-All my different sites are linked up, so now I really need to focus on content, adding captions to my images, and creating a simple design. I want to get all the images and text where they need to be first and foremost, and then focus on the design after. 
+My home page, about page, and audio work page are completely done. I plan on including more pictures for my visual work section and displaying them in a more visually appealing way, and I also plan on expanding upon the programming section with some screenshots. 
