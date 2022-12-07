@@ -1,5 +1,5 @@
 # WebPortfolio
 
-## Future Plans
+I chose to do a job-seeking portfolio. My site contains work I have done for this class, like my soundscape and my visual argument, and also work I have done for my other classes. I have solely utilized HTML and CSS to create my portfolio, and it was a great wya to compile all my work together.
 
-My home page, about page, and audio work page are completely done. I plan on including more pictures for my visual work section and displaying them in a more visually appealing way, and I also plan on expanding upon the programming section with some screenshots. 
+#### I have mainly tested using Google Chrome, and then briefly on Microsoft Edge and Firefox. I don't have Safari on my laptop, so I haven't tested it there. 
